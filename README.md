@@ -7,7 +7,7 @@ The **TestSet** instruments of the APK.audio bench, as one thing: 4 models, thei
 | | |
 |---|---|
 | **Is** | **source** — puts something out — a stimulus, a supply or a load<br>**inputs** — takes signals in — its connectors are inputs a patch can land on<br>**metering** — measures — its readings are numbers with units<br>**monitoring** — shows — a trace, a waveform or a display you watch |
-| **Inputs** | each model's BIM part: /api/bim/parts?full=1&id=<part> — ports where side is "input" and domain is not "power" |
+| **Inputs and outputs** | every model's inputs and outputs — its connectors (from its BIM part), its commands' arguments and returns, and its bus topics — are on its SDK page: Documentation/🧩Manual and Artifacts/SDK/<Model>.md |
 | **Recipe** | none — data, not a container: read in place by the stacks that bake `INSTRUMENTS` |
 | **Source** | this repository (https://github.com/LikeDotAudio/APK.plugin.instruments.VISA.TestSet.git), a submodule of [APK.plugin.instruments.VISA](https://github.com/LikeDotAudio/APK.plugin.instruments.VISA) at `INSTRUMENT.TestSet/` |
 | **Family name** | `TestSet` — the device type, the topic segment and the `manifest.json` key; the `INSTRUMENT.` prefix belongs to the folder only |
