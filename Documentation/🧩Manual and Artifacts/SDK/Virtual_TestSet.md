@@ -16,7 +16,7 @@
 <!-- sdk:io -->
 ## Inputs and outputs — the box
 
-No part for this model in the BIM library yet (`DATABASE.server.BIM`), so its connectors are not stated here. Add the part there — the one place a device type is described — and regenerate.
+This model has no physical box, so it has no connectors: it is APK.audio's software emulator (virtual_test_set.py), a SCPI socket and bus endpoint with nothing to plug in. Its inputs and outputs are its commands and bus topics, below.
 
 <!-- /sdk:io -->
 
