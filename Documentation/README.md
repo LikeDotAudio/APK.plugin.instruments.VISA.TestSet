@@ -14,4 +14,5 @@ The documentation for `INSTRUMENT.TestSet`, in the same lanes as the APK.audio m
 <!-- /wiki:lanes -->
 
 <!-- wiki:smoke -->
+**Smoke test** — ✅ PASS 1/1 since 2026-11-12 00:15 EST — [results](%F0%9F%A7%A9Manual%20and%20Artifacts/SMOKE.md)
 <!-- /wiki:smoke -->
