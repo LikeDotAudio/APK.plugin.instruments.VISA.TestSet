@@ -1,0 +1,12 @@
+{
+  "model": "Virtual_TestSet",
+  "manual": "the virtual test set's own command set (no box): the E5515C's CALL/MEASure tree plus SOURce",
+  "roots": [
+    "CALL",
+    "MEASure",
+    "SOURce",
+    "SYSTem"
+  ],
+  "optional": [],
+  "unresolved": {}
+}

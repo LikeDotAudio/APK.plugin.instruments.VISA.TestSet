@@ -1,0 +1,21 @@
+{
+  "model": "E5515C",
+  "manual": "Agilent 8960 (E5515C) GPIB command reference, keysight helpfiles (SOURCES.md)",
+  "roots": [
+    "CALL",
+    "MEASure",
+    "SYSTem",
+    "SETup",
+    "FETCh",
+    "INITiate",
+    "READ",
+    "STATus",
+    "DISPlay",
+    "CONFigure",
+    "RFANalyzer",
+    "AFGenerator",
+    "AFANalyzer"
+  ],
+  "optional": [],
+  "unresolved": {}
+}
